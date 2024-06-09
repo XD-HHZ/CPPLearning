@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test.dir/tests/test.cc.o -o ../bin/test   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib:/home/hhz/cppLearning/myGit/mySylarWeb/lib ../lib/libsylar.so -lpthread /usr/local/lib/libyaml-cpp.a 

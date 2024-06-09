@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -D__FILE__=\\\"sylar/config.cc\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -fPIC -o CMakeFiles/sylar.dir/sylar/config.cc.o -c /home/hhz/cppLearning/myGit/mySylarWeb/sylar/config.cc",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/sylar/config.cc"
+},
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -D__FILE__=\\\"sylar/fiber.cc\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -fPIC -o CMakeFiles/sylar.dir/sylar/fiber.cc.o -c /home/hhz/cppLearning/myGit/mySylarWeb/sylar/fiber.cc",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/sylar/fiber.cc"
+},
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -D__FILE__=\\\"sylar/log.cpp\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -fPIC -o CMakeFiles/sylar.dir/sylar/log.cpp.o -c /home/hhz/cppLearning/myGit/mySylarWeb/sylar/log.cpp",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/sylar/log.cpp"
+},
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -D__FILE__=\\\"sylar/scheduler.cc\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -fPIC -o CMakeFiles/sylar.dir/sylar/scheduler.cc.o -c /home/hhz/cppLearning/myGit/mySylarWeb/sylar/scheduler.cc",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/sylar/scheduler.cc"
+},
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -D__FILE__=\\\"sylar/thread.cpp\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -fPIC -o CMakeFiles/sylar.dir/sylar/thread.cpp.o -c /home/hhz/cppLearning/myGit/mySylarWeb/sylar/thread.cpp",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/sylar/thread.cpp"
+},
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -D__FILE__=\\\"sylar/util.cpp\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -fPIC -o CMakeFiles/sylar.dir/sylar/util.cpp.o -c /home/hhz/cppLearning/myGit/mySylarWeb/sylar/util.cpp",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/sylar/util.cpp"
+},
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++  -D__FILE__=\\\"tests/test.cc\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -o CMakeFiles/test.dir/tests/test.cc.o -c /home/hhz/cppLearning/myGit/mySylarWeb/tests/test.cc",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/tests/test.cc"
+},
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++  -D__FILE__=\\\"tests/test_config.cc\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -o CMakeFiles/test_config.dir/tests/test_config.cc.o -c /home/hhz/cppLearning/myGit/mySylarWeb/tests/test_config.cc",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/tests/test_config.cc"
+},
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++  -D__FILE__=\\\"tests/test_thread.cpp\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -o CMakeFiles/test_thread.dir/tests/test_thread.cpp.o -c /home/hhz/cppLearning/myGit/mySylarWeb/tests/test_thread.cpp",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/tests/test_thread.cpp"
+},
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++  -D__FILE__=\\\"tests/test_util.cc\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -o CMakeFiles/test_util.dir/tests/test_util.cc.o -c /home/hhz/cppLearning/myGit/mySylarWeb/tests/test_util.cc",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/tests/test_util.cc"
+},
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++  -D__FILE__=\\\"tests/test_fiber.cc\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -o CMakeFiles/test_fiber.dir/tests/test_fiber.cc.o -c /home/hhz/cppLearning/myGit/mySylarWeb/tests/test_fiber.cc",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/tests/test_fiber.cc"
+},
+{
+  "directory": "/home/hhz/cppLearning/myGit/mySylarWeb/build",
+  "command": "/usr/bin/g++  -D__FILE__=\\\"tests/test_scheduler.cc\\\" -I/home/hhz/cppLearning/myGit/mySylarWeb/. -g -o CMakeFiles/test_scheduler.dir/tests/test_scheduler.cc.o -c /home/hhz/cppLearning/myGit/mySylarWeb/tests/test_scheduler.cc",
+  "file": "/home/hhz/cppLearning/myGit/mySylarWeb/tests/test_scheduler.cc"
+}
+]
